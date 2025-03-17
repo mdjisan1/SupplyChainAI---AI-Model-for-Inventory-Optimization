@@ -65,7 +65,7 @@ SupplyChainAI is an AI-powered predictive analytics model designed to enhance in
 - Visualizes category distribution, order status distribution, and credit limit distribution.
 - Analyzes the correlation matrix to understand feature relationships.
 
-**Visualization Examples (Add Screenshots Below)**
+**Visualization Examples**
 
 - ![Category Distribution](img/4.jpg)
 - ![Order Status Distribution](img/3.jpg)
