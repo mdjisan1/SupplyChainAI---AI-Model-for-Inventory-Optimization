@@ -67,13 +67,13 @@ SupplyChainAI is an AI-powered predictive analytics model designed to enhance in
 
 **Visualization Examples (Add Screenshots Below)**
 
-- ![Category Distribution](4.jpg)
-- ![Order Status Distribution](path/to/order_status.png)
-- ![Customer Credit Limit Distribution](path/to/credit_limit_distribution.png)
-- ![Order Quantity Distribution](path/to/order_quantity_distribution.png)
-- ![Product Price vs Order Quantity](path/to/price_vs_quantity.png)
-- ![Monthly Order Trends](path/to/monthly_order_trends.png)
-- ![Feature Correlation Matrix](path/to/correlation_matrix.png)
+- ![Category Distribution](img/4.jpg)
+- ![Order Status Distribution](img/3.jpg)
+- ![Customer Credit Limit Distribution](img/2.jpg)
+- ![Order Quantity Distribution](img/1.jpg)
+- ![Product Price vs Order Quantity](img/5.jpg)
+- ![Monthly Order Trends](img/6.jpg)
+- ![Feature Correlation Matrix](img/7.jpg)
 
 ### Step 4: Data Encoding & Normalization
 - Encodes categorical variables using Label Encoding.
@@ -137,15 +137,10 @@ SupplyChainAI is an AI-powered predictive analytics model designed to enhance in
 ---
 
 ## 🤝 Contributor & Contact
-**Developer**: [Your Name]
-**Email**: [Your Email]
+**Developer**: Md. Jisan Ahmed
+**Email**: jisan3325@gmail.com
 
 For inquiries, feel free to reach out!
-
----
-
-## 📜 License
-This project is licensed under the MIT License.
 
 ---
 
